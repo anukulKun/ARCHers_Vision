@@ -1,0 +1,17 @@
+[package]
+
+name = "hello_market"
+version = "0.1.3"
+license = "MIT"
+
+[address]
+hello_market = "_" 
+std = "0x1" 
+aptos_framework = "0x1" 
+aptos_std = "0x1" 
+aptos_token = "0x3" 
+
+[dependencies]
+Aptos Framework = // GitHub // Dependency on the Aptos Framework
+AptosStdlib = _ // Dependency on the Aptos Standard Library
+AptosToken = _ // Dependency on the Aptos Token
